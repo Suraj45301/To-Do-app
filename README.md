@@ -9,11 +9,8 @@ A simple Todo App built using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
-## 📸 Screenshot
-(Add screenshot here)
-
 ## 🌐 Live Demo
-(Add link here)
+https://jovial-bienenstitch-2c0b06.netlify.app/
 
 ---
 Made by Suraj Yadav
